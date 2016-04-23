@@ -1,0 +1,24 @@
+{
+  "author": "Rowan Wookey <admin@rwky.net> (https://www.rwky.net)",
+  "name": "grunt-remarkable",
+  "description": "Compiles markdown files to html using remarkable",
+  "version": "1.0.0",
+  "keywords": ["grunt","markdown","remarkable"],
+  "homepage":"https://github.com/rwky/grunt-remarkable",
+  "bugs": { "url": "https://github.com/rwky/grunt-remarkable/issues" },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "remarkable": "1.6.x"
+  },
+  "devDependencies": {
+    "coffee-script":"1.10.x"
+  },
+  "main":"tasks/remarkable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwky/grunt-remarkable.git"
+  },
+  "license": "AGPL-3.0"
+}
