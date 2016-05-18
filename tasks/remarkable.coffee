@@ -1,9 +1,5 @@
 module.exports = (grunt) ->
     Remarkable = require 'remarkable'
-    fs = require 'fs'
-    async = require 'async'
-    os = require('os')
-    util = require('util')
     grunt.registerMultiTask 'remarkable', 'Run remarkable on files', (target) ->
         options = @options({})
         remarkable = new Remarkable(options)
