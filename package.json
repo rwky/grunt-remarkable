@@ -2,7 +2,7 @@
   "author": "Rowan Wookey <admin@rwky.net> (https://www.rwky.net)",
   "name": "grunt-remarkable",
   "description": "Compiles markdown files to html using remarkable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["grunt","markdown","remarkable"],
   "homepage":"https://github.com/rwky/grunt-remarkable",
   "bugs": { "url": "https://github.com/rwky/grunt-remarkable/issues" },
